@@ -3,12 +3,12 @@
 int main() {
 
     // Captura os dados da primeira carta
-    char estado1[1], nomeCidade1[50], codigoCarta1[3]; 
+    char estado1[1], nomeCidade1[50], codigoCarta1[4]; 
     int populacao1, pontosTuristicos1; 
     float pib1, area1;
 
     // Captura os dados da segunda carta
-    char estado2[1], nomeCidade2[50], codigoCarta2[3]; 
+    char estado2[1], nomeCidade2[50], codigoCarta2[4]; 
     int populacao2, pontosTuristicos2; 
     float pib2, area2;
     
