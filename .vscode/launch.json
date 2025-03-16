@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/MeuProjeto/desafio-cadastro-das-cartas-no-super-trunfo-EmartVee",
-      "program": "c:/MeuProjeto/desafio-cadastro-das-cartas-no-super-trunfo-EmartVee/build/Debug/outDebug",
+      "cwd": "c:/MeuProjeto/desafio-cadastro-das-cartas-no-super-trunfo-EmartVee/build",
+      "program": "c:/MeuProjeto/desafio-cadastro-das-cartas-no-super-trunfo-EmartVee/build/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
